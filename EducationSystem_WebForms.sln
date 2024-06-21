@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "EducationSystem_WebForms", ".", "{91459EF8-5D7A-4B80-8033-805BCC4E6AB7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58258"
+		Debug.AspNetCompiler.PhysicalPath = "..\EducationSystem_WebForms\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58258\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58258"
+		Release.AspNetCompiler.PhysicalPath = "..\EducationSystem_WebForms\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58258\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58258"
+		SlnRelativePath = "..\EducationSystem_WebForms\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91459EF8-5D7A-4B80-8033-805BCC4E6AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91459EF8-5D7A-4B80-8033-805BCC4E6AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2ABE165-CE8F-4E84-99BD-CDCD90C853CF}
+	EndGlobalSection
+EndGlobal
